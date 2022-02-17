@@ -7,7 +7,8 @@ of the Socket.IO website.
 Please refer to it to learn how to run this application.
 
 
-#First Run Server
+#Server
+create ssl pfx cert exported from iis  and put pem/1.pfx and set password from index.js
 npm install
 node index.js
 
